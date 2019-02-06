@@ -1,4 +1,4 @@
-# docker
+# docker-compose
 
 Please install Docker and Docker Compose
 
