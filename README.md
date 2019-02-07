@@ -16,7 +16,7 @@ $ cd express-server && npm install
 
 Start Command
 
-$ cd mean-stack-docker
+$ cd docker
 
 $ docker-compose up
 
